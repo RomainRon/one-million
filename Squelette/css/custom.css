@@ -1,0 +1,53 @@
+/* Vos customisations des classes de Bootstrap */
+
+
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+
+
+
+
+#home{
+
+    background-image: url("../images/hero-image.jpg"); 
+    height: 600px ;
+}
+
+.cc{
+
+    border-top: 1px solid rgb(255, 0, 0);
+    height: 2px;
+    max-width: 200px;
+    padding: 20px;
+    margin: 20px auto 0 auto;
+
+
+
+}
+
+.SS{
+
+    border-top: 1px solid rgb(255, 0, 0);
+    height: 2px;
+    max-width: 200px;
+    padding: 20px;
+    margin: 20px auto 0 auto;
+
+
+
+}
+
